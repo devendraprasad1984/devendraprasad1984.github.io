@@ -1,0 +1,1 @@
+import{j as r,R as a}from"./vendor-C3_rM9tW.js";import{l as s}from"../dpresume.js";import{I as e}from"./iframe-Cbp-bS1i.js";const i=()=>r.jsx(a.Fragment,{children:r.jsx(e,{src:s.iframe.vanillaJsHome})});export{i as default};
