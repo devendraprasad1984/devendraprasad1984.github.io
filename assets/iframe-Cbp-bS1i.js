@@ -1,1 +1,0 @@
-import{j as e,o as a}from"./vendor-C3_rM9tW.js";import{F as s}from"../dpresume.js";const m=({src:r})=>{const o=()=>{a.domHelpers.detachLoader()};return e.jsx(s,{children:e.jsx("iframe",{onLoad:o,src:r,className:"iframe-base",width:"800",height:"600",frameBorder:"0",scrolling:"no"})})};export{m as I};
